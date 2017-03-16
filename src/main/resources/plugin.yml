@@ -1,0 +1,9 @@
+name: CellBlock
+main: au.com.addstar.CellBlock
+version: ${plugin.version}
+author: Narimm
+depends: PlotSquared
+commands:
+   command:
+      description: A Command
+      usage: /<command> 
